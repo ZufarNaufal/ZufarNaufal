@@ -1,4 +1,3 @@
-# Current Portfolio
 ### Hi! 👋 I'm ZufarNaufal.
 
 ### Github Stats

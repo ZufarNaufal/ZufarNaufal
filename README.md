@@ -6,8 +6,8 @@
 ### Github Stats
 <p align="left">
 <a href="https://github.com/ZufarNaufal">
-<img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zufarnaufal&layout=donut-vertical&bg_color=30,ad5389,3c1053&title_color=fff&text_color=fff&langs_count=15&theme=algolia"/>
-<img height="310em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zufarnaufal&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=synthwave&include_all_commits=true&count_private=true&langs_count=20"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zufarnaufal&layout=donut-vertical&bg_color=30,ad5389,3c1053&title_color=fff&text_color=fff&langs_count=15&theme=algolia"/>
+<img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zufarnaufal&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=synthwave&include_all_commits=true&count_private=true&langs_count=20"/>
  
   ## 🧰 &nbsp;My toolbox
 

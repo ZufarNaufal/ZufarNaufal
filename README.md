@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="96">
       <a href="#flutter">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="38" height="38" alt="Flutter" />
       </a>
       <br>Flutter
     </td>

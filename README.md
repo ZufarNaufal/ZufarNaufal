@@ -1,4 +1,7 @@
-### Hi! 👋 I'm ZufarNaufal.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=%20HiThere%20"/>
+</p>
 
 ### Github Stats
 <p align="left">

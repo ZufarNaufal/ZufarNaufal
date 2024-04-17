@@ -1,10 +1,3 @@
-### Whusup, MATE! 👋 I'm Zufar People Called Me xGRID.
-
-For Latest Portfolio, I'm Currently Work As Teacher on Highschool & 
--  ![icons8_journey_20px](https://github.com/ZufarNaufal/ZufarNaufal/assets/34432992/e81d2ad7-bec9-4c0b-92bf-26617606c411)   I'm Currently Learning About Tech - Stack, For Exactly Front-End & Back-End 
-
-- Fun Fact : ![icons8_pubg_19px](https://github.com/ZufarNaufal/ZufarNaufal/assets/34432992/13f4a0a5-7411-4580-9daa-ab2e5500c111)
-  players
 
 ### Github Stats
 <p align="left">
